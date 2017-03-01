@@ -1,0 +1,16 @@
+{
+  "name": "node_tutorial_hitendra",
+  "version": "1.0.0",
+  "description": "Sample node tutorial using net ninja",
+  "main": "demo.js",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hitendra shukla",
+  "license": "ISC"
+}
